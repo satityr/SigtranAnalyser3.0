@@ -4,5 +4,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jnetpcap1.42"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/vert.x"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jxl"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
